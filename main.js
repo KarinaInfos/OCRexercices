@@ -1,3 +1,7 @@
+/**
+ *  Onclik functions
+ */
+
 function initElement() {
   var p = document.getElementById("foo");
   // NOTE: showAlert(); ou showAlert(param); NE fonctionne PAS ici.
